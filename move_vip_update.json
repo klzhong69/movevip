@@ -1,0 +1,14 @@
+{
+    "code": 0, 
+    "msg":"请求成功",
+    "data": {
+        "appName": "movevip更新", 
+        "isForceUpdate": 1, 
+        "newAppSize": "12.3f", 
+        "newAppVersionCode": 10, 
+        "newAppVersionName": "1.0", 
+        "newAppUpdateDesc": "1.第一次发布\n", 
+        "newAppReleaseTime": "2017-03-23 12:37", 
+        "newAppUrl": "http://om4gxhm03.bkt.clouddn.com/app-release_10_jiagu_sign.apk"
+    }
+}
